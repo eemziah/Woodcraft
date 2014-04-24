@@ -1,7 +1,35 @@
-Should be able to hold the PC plus the 2 monitors on top.
+**********************REQUIREMENTS**********************************
 
-Should have a slot in between main top and monitor top to store pens, paper, and such.
+*ADDED 4/23* Should be able to hold the PC plus the 2 monitors on top. 
 
-Should have a sliding drawer to put the accessories in.
+*WIP for V2* Should have a slot in between main top and monitor top to store pens, paper, and such.
 
-Maybe a built in usb feature.
+*REMOVED as of 4/23* Should have a sliding drawer to put the accessories in.
+
+*WIP as of 4/24* Maybe a built in USB feature.
+
+**********************DIMENSIONS************************************
+Length x Width x Height
+V1 
+	Overall - 50" x 22" x 28"
+	Shelf - 1 1/2" off ground for computer
+***********************PIECES****************************************
+Length x Width x Height(Thickness)
+V1
+	Top
+		2 48" x 7" x 1" glued together (A)
+		2 50" x 4" x 1" glued to the 7" to make 22" (B)
+		2 1" x 22" x 1" glued to sides to form a border (C)
+	Sides
+		3 27" x 20" x 1" attached underneath A and B (D)
+	Shelf
+		2 12" x 20" x 1" attached in between D2 and D3 raised 1 1/2" off ground for bottom (E)
+*************************WOOD******************************************
+Length x Width x Height(Thickness)
+V1
+	Top
+		2 48" x 7" x 1"
+		3 72" x 4" x 1"
+	Sides
+		3 48" x 20" x 1" ASPEN Menards SKU 1046319
+		
